@@ -1,3 +1,5 @@
+0	Flashé hacer un programa de prueba, dice hello world, y hello xx user, no está en la guía y no es necesario que lo veas.
+
 1	Escribir un programa que pida dos números enteros por teclado y calcule la suma de los dos. El programa deberá después mostrar el resultado de la suma
 
 2	Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre por pantalla.
